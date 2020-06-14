@@ -1,0 +1,12 @@
+name: ngramsolver
+title: ngramsolver
+username:
+account: corypiette
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 237209
+bundleId: 1084658
+url: https://corypiette.shinyapps.io/ngramsolver/
+when: 1511128619.16991
+asMultiple: FALSE
+asStatic: FALSE

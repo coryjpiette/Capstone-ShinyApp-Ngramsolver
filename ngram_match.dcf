@@ -1,0 +1,12 @@
+name: ngram_match
+title: ngram_match
+username:
+account: corypiette
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2452404
+bundleId: 3267803
+url: https://corypiette.shinyapps.io/ngram_match/
+when: 1592134442.46819
+asMultiple: FALSE
+asStatic: FALSE
